@@ -1,0 +1,14 @@
+{
+  "audios":{
+    "p0" : "audios/agua.mp3",
+    "p1" : "audios/Viento .mp3",
+    "p2" : "audios/electricidad.mp3",
+    "p3" : "audios/fuego - Efectos de sonido.mp3"
+  },
+  "colores":{
+    "p0" : "rgba(255, 60, 17, 0.75)",
+    "p1" : "rgba(71, 17, 255, 0.75)",
+    "p2" : "rgba(17, 255, 71, 0.75)",
+    "p3" : "rgba(255, 157, 17, 0.75)"
+  }
+}
